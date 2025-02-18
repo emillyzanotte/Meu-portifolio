@@ -1,0 +1,25 @@
+*{
+
+margin: 0;
+padding: 0; 
+
+}
+
+body{
+
+height: 100vh;
+background-color: rgb(177, 111, 182);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+margin: 0;
+color:rgb(251, 251, 251)
+
+
+}
+
+.cabecalho {
+
+padding: 2% 2% 2% 35%;
+
+}
